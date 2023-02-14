@@ -4,7 +4,7 @@
 
 >> Abaixo seguem os links para as atividades dos integrantes:
 
->Atividade 1 (links)
+>***Atividade 1 (links)***
 
 >Hugo ->> [Atividade-Hugo](https://github.com/HugoNishimoto07/Comp-Visual/blob/main/Atividades/Atividade%201/Atividade%201%20-%20Hugo.txt) 
 
