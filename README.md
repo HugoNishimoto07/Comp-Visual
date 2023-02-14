@@ -7,7 +7,7 @@
 > RA: 32048416
 
 > Lucas Souza Silva
-> RA: 
+> RA: 32058179
 
 > Vinicius Figueira de Faria Rodrigues
-> RA:
+> RA: 32013639
