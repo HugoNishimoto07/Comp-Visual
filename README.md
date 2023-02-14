@@ -9,5 +9,5 @@
 > Lucas Souza Silva
 > RA: 32058179
 
-> Vinicius Figueira de Faria Rodrigues
+> Vinicius Rodrigues Figueira de Faria 
 > RA: 32013639
