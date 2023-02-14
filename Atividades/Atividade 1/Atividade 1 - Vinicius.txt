@@ -1,4 +1,7 @@
 Nome: Vinicius Rodrigues Figueira de Faria 
 RA: 32013639
 
+
+Enunciado: Qual é a sua idéia de computação visual?
+
 Resposta: A minha ideia de computação visual é de que será uma disciplina centrada no aprendizado e utilização de métodos de desenvolvimento de objetos em 3D, por exemplo.
