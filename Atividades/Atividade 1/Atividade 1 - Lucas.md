@@ -6,4 +6,4 @@ RA: 32058179
 - Tratamento de imagem
 - Shaders(?)
 - Expressar visualmente alguma expressão matematica
-- Como funciona gpu
+- Como funciona e utiliza a GPU
