@@ -1,0 +1,31 @@
+Computação gráfica
+
+  A computação gráfica é extremamente importante na área de arquitetura, empregada nos softwares utilizados pelos arquitetos, ajuda no desenvolvimento de protótipos e possibilita que o arquiteto realize alterações pontuais e teste varias possibilidades antes da concepção em si do projeto.
+  Permite além disso uma perspectiva fiel de como o projeto ficará depois de realizado, ter o ponto de vista do interior e exterior auxilia na descoberta e solução de possíveis erros e problemas que poderiam ser descobertos apenas no final da construção.
+  Essa aplicação de computação gráfica foi escolhida por ser algo próximo do meu cotidiano, conheço alguns estudantes de arquitetura que basicamente passam todo o curso realizando projetos com o auxílio de programas de computação gráfica.
+  
+Referências:
+- https://pantheon.ufrj.br/handle/11422/6869#:~:text=Na%20arquitetura%2C%20a%20utiliza%C3%A7%C3%A3o%20da,pela%20defini%C3%A7%C3%A3o%20de%20caminhos%20de
+- https://www.javatpoint.com/application-of-computer-graphics
+
+Visão Computacional
+
+  A visão computacional é o núcleo dos veículos autônomos, através dela é possível detectar e classificar os objetos ao redor do veículo como placas, luzes de sinalização, barreiras, pedestres e assim criar um mapa 3D dos arredores do veículo.
+  Alguns veículos já são produzidos com essa tecnologia, porém não totalmente autônomos, verificam o ambiente que circula o carro, mas ainda deixam a tomada de ação no controle do motorista. Tudo isso atrelado a utilização de IA faz com que seja possível em algum momento a humanidade chegar a ter carros totalmente autônomos sendo comercializados para a população.
+  Essa aplicação foi escolhida por ser algo que está evoluindo no momento, com a ideia de carros autônomos e o desenvolvimento de tecnologias e IA, fica cada vez mais perto que isso se torne possível 
+  
+Referências:
+- https://www.youtube.com/watch?v=HS1wV9NMLr8
+- https://plainsight.ai/blog/autonomous-vehicles-computer-vision/#:~:text=Computer%20vision%20is%20at%20the,to%20safely%20navigate%20the%20road.
+	
+Processamento de Imagens
+
+  O processamento de imagens vem sendo adotado em larga escala na indústria alimentícia, no controle de qualidade dos alimentos como frutas, verduras e legumes. A qualidade desses produtos pode ser observada através da coloração, textura, tamanho e até o formato e até entao a principal forma de controle de qualidade desses alimentos era manualmente através desses fatores.
+	Com a evolução da indústria hoje é possível utilizar o processamento de imagem para automatizar esse controle de qualidade, é criada uma base de dados com os detalhes físicos de cada fruta, verdura e legume para que através da análise visual já possam ser selecionados os alimentos de melhor qualidade para a comercialização.
+	A aplicação foi escolhida pela relevância dela no território brasileiro, pais que é o terceiro maior produtor de frutas do mundo e uma forma de automatizar o processo de selecao de frutas e verduras é extremamente pertinente e pode ser amplamente aplicado em todo o território.
+  
+Referências:
+- https://www.psi-technics.com/EN/Services-Products/Industrial-Image-Processing/industrial-image-processing-food-industry.php
+- https://www.ijert.org/fruit-recognition-using-image-processing
+- https://www.simplilearn.com/image-processing-article
+- https://www.scielo.br/j/bjft/a/y5bZb5gBbdYS4SKrkGyZ7qr/?lang=en
