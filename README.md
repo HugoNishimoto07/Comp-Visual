@@ -3,6 +3,9 @@
 
 >***Integrantes do Grupo***:
 
+> Fernando Bastos
+> RA: 31806211
+
 > Hugo Shiniti Nishimoto
 > RA: 32048416
 
