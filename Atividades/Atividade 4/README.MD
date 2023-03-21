@@ -1,9 +1,15 @@
-Faça uma pesquisa em livros, artigos científicos e materiais de eventos de Computação Gráfica e Visão Computacional e procure pelo menos um trabalho em que as pessoas usaram o filtro de suavização (blur) como uma das etapas para resolver um problema nas áreas de Computação Gráfica ou Visão Computacional.
+## Terceira atividade Teórica - Aplicações da Computação Visual
 
-Descreva o problema, a solução do problema e como o uso do filtro de suavização ajudou na solução. Procure incluir imagens que mostram o processo durante a solução do problema.
+>***Integrantes do Grupo***:
 
-Não se esqueça de incluir as referências na pesquisa.
+> Fernando Bastos
+> RA: 31806211
 
-Publique o resultado dessa atividade no seu blog.
+> Hugo Shiniti Nishimoto
+> RA: 32048416
 
-Nesse link de tarefa do Moodle, envie um arquivo txt contendo o link do seu blog referente ao texto dessa atividade.
+> Lucas Souza Silva
+> RA: 32058179
+
+> Vinicius Rodrigues Figueira de Faria 
+> RA: 32013639
