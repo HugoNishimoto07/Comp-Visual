@@ -21,6 +21,7 @@ YOLO para a identificação de todos os itens que compõem uma imagem, classific
 o modelo deve se concentrar em regiões de interesse na imagem e desfocar o resto da imagem. Isso permite que o modelo dedique mais recursos de processamento às regiões de interesse, melhorando a precisão do reconhecimento de objetos.
 
 ![fig1](https://github.com/HugoNishimoto07/Comp-Visual/blob/c66a3b8c7e589a70c99913c0088e560e2583b099/Atividades/Atividade%204/blurring.png)
+
 Figura 1: Exemplo do foco e desfoque.
 O uso do filtro de suavização (Blur)  é essencial nesta abordagem, pois permite que o modelo concentre seus recursos de processamento nas regiões de interesse. 
 Além disso, o Blur também ajuda a reduzir o efeito de sobreposição de objetos, tornando mais fácil para o modelo identificar os objetos individuais.
