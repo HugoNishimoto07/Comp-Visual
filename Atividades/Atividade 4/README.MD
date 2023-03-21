@@ -20,9 +20,8 @@ A solução proposta pelos autores envolve o uso de uma abordagem de foco e desf
 YOLO para a identificação de todos os itens que compõem uma imagem, classificá-los, com base na importância em vez de tentar segmentar cada objeto individualmente, 
 o modelo deve se concentrar em regiões de interesse na imagem e desfocar o resto da imagem. Isso permite que o modelo dedique mais recursos de processamento às regiões de interesse, melhorando a precisão do reconhecimento de objetos.
 
-<img src="Comp-Visual/Atividades/blurring.png" width=300>
 
-Figura 1: Exemplo do foco e desfoque
+Figura 1: Exemplo do foco e desfoque.
 O uso do filtro de suavização (Blur)  é essencial nesta abordagem, pois permite que o modelo concentre seus recursos de processamento nas regiões de interesse. 
 Além disso, o Blur também ajuda a reduzir o efeito de sobreposição de objetos, tornando mais fácil para o modelo identificar os objetos individuais.
 
