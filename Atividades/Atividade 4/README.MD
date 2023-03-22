@@ -28,4 +28,5 @@ O uso do filtro de suavização (Blur)  é essencial nesta abordagem, pois permi
 Além disso, o Blur também ajuda a reduzir o efeito de sobreposição de objetos, tornando mais fácil para o modelo identificar os objetos individuais.
 
 Referência: 
+
 •	Multiple object recognition with focusing and blurring. http://cs231n.stanford.edu/reports/2016/pdfs/259_Report.pdf
