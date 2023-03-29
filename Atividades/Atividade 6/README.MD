@@ -1,5 +1,6 @@
 
 Referencias Utilizadas
+
 https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_thresholding.html#thresholding
 https://scikit-image.org/docs/stable/auto_examples/color_exposure/plot_equalize.html
 https://danielmuellerkomorowska.com/2020/06/17/analyzing-image-histograms-with-scikit-image/
