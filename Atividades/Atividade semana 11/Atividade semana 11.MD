@@ -11,7 +11,7 @@
 > RA: 32013639
 
 
-## Atividade Semana 10 – Computação Visual
+## Atividade Semana 11 – Computação Visual
 
 Resolução:
 
