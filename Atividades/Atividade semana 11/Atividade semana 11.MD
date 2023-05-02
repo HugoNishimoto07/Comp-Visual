@@ -87,7 +87,7 @@ A pipeline do WebGL funciona de forma similar ao OpenGL, uma vez que o WebGL é 
 
 - GLSL
 
-> Exemplo de uso do WedbGL:
+> Exemplo de uso do WebGL:
 
 <img width="481" alt="image" src="https://user-images.githubusercontent.com/89364149/235779394-aaff1bcd-7503-4b87-b907-9a97120933bf.png">
 
