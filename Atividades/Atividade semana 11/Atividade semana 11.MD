@@ -50,3 +50,5 @@ Resolução:
 - https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/cube.c
 
 - https://medium.com/trabe/a-brief-introduction-to-webgl-5b584db3d6d6
+
+- https://www.tutorialspoint.com/webgl/webgl_drawing_a_triangle.htm
