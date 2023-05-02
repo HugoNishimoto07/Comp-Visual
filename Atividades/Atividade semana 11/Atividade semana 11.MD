@@ -33,6 +33,10 @@ Resolução:
 
 [Exemplo cubo vermelho simples](https://github.com/HugoNishimoto07/Comp-Visual/blob/main/Atividades/Atividade%20semana%2011/redsquare.c)
 
+> Exemplo de aplicação do OpenGL:
+
+O jogo Minecraft utiliza uma biblioteca chamada LWJGL para que seja possível a utilização dos gráficos 3D. Por sua vez, tal biblioteca faz uso do OpenGL para realizar a renderização dos gráficos.
+
 ## API gráfica 2: WebGL
 
 > Pipeline WebGL
@@ -69,6 +73,8 @@ O webGL é utilizado principalmente para renderização de gráficos 2D e 3D, e 
 - https://www.khronos.org/opengl/wiki/Shader
 
 - https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/cube.c
+
+- https://www.lwjgl.org
 
 - https://medium.com/trabe/a-brief-introduction-to-webgl-5b584db3d6d6
 
