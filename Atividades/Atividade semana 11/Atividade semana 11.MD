@@ -37,6 +37,10 @@ Resolução:
 
 - GLSL
 
+> Exemplo de uso do WedbGL e código fonte:
+
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/89364149/235779394-aaff1bcd-7503-4b87-b907-9a97120933bf.png">
+
 >> Referências:
 
 - https://pythonprogramming.net/opengl-rotating-cube-example-pyopengl-tutorial/#:~:text=First%20off%2C%20PyOpenGL%20is%20just,of%20OpenGL%20to%20other%20languages.
