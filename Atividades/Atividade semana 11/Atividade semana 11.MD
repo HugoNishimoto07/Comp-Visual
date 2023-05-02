@@ -25,6 +25,14 @@ Resolução:
 
 - GLSL
 
+> Exemplo de uso do OpenGL:
+
+<img width="194" alt="image" src="https://user-images.githubusercontent.com/89364149/235786713-32f161d5-ad07-4a6f-a1cb-aa221bd1ca63.png">
+
+> Código fonte OpenGL:
+
+[Exemplo cubo vermelho simples](https://github.com/HugoNishimoto07/Comp-Visual/blob/main/Atividades/Atividade%20semana%2011/redsquare.c)
+
 ## API gráfica 2: WebGL
 
 > Pipeline WebGL
