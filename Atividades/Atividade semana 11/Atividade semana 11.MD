@@ -21,6 +21,40 @@ Resolução:
 
 ![Imagem do WhatsApp de 2023-04-25 à(s) 18 09 47](https://user-images.githubusercontent.com/89364149/234404728-25480f61-9b3c-487d-b80c-878dfa0726e7.jpg)
 
+- Vertex Specification
+
+O Vertex Specification remete a fase inicial, onde os vértices são postos em buffers da GPU
+
+- Vertex Shader
+
+Nessa etapa, o vértices que foram direcionados para a GPU, são divididos em vértices de entrada e saída, e tais valores agora recebem o nome de "valores variantes". Após feita essa separação, esses valores são enviados para alimentar o rasterizador que passará os mesmos para o fragment shader.
+
+- Tesselation
+
+O tesselation é um estado opcional que irá melhorar o nível de detalhamento do modelo gráfico.
+
+- Geometry Shader
+
+O geometry shader é responsável por dar efeitos de sombreamento ao modelo, ou seja, o mesmo pode adicionar vértices adicionais ao modelo para reproduzir tal efeito.
+
+- Vertex Post Processing
+
+Após os vértices serem processados, as saídas dos mesmo passam por diversos processos antes de chegar na fase de rasterização.
+
+- Primitive Assembly
+
+Nessa etapa, os vértices são transformados em valores primitivos. Tal alteração influencia no formato que os triangulos vão assumir.
+
+- Rasterization
+
+A fase de rasterizacão promove uma eliminação das partes dos triangulos que ficaram fora do espectro definido. Para as partes que permaneceram dentro, elas são "quebradas" em fragmentos.
+
+- Fragment Shader
+
+O fragment shader é responsável por juntar os valores variá
+
+
+
 > Shader(s) do OpenGL:
 
 - GLSL
@@ -44,6 +78,20 @@ O jogo Minecraft utiliza uma biblioteca chamada LWJGL para que seja possível a 
 ![pipelineWEBGL](https://user-images.githubusercontent.com/89364149/235649335-f3c3ca69-7dc4-4569-a991-519001e5ccc6.png)
 
 *A imagem é do site: https://medium.com/trabe/a-brief-introduction-to-webgl-5b584db3d6d6
+
+- Vertex Shader 
+
+O vertex shader lida com o procesamento dos vértices do gráfico em questão
+
+- Triangle Assembly
+
+
+
+- Rasterization 
+
+- Fragment Shader
+
+- Testing and Blending
 
 > Shader(s) do WebGL:
 
