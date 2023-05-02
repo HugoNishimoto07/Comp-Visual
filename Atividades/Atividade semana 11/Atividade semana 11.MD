@@ -53,6 +53,11 @@ Resolução:
 
 - [Exemplo triangulo simples](https://github.com/HugoNishimoto07/Comp-Visual/blob/main/Atividades/Atividade%20semana%2011/triangle.html)
 
+> Exemplo de aplicação do WebGL:
+
+O webGL é utilizado principalmente para renderização de gráficos 2D e 3D, e considerando essa característica, ele é aplicado para criar elementos para jogos, como por exemplo uma água com efeitos realistas. Ainda considerando sua usabilidade nos jogos, O WebGL tambem é utilizado para criar ambientes de realidade virtual.
+
+
 >> Referências:
 
 - https://pythonprogramming.net/opengl-rotating-cube-example-pyopengl-tutorial/#:~:text=First%20off%2C%20PyOpenGL%20is%20just,of%20OpenGL%20to%20other%20languages.
@@ -68,3 +73,8 @@ Resolução:
 - https://medium.com/trabe/a-brief-introduction-to-webgl-5b584db3d6d6
 
 - https://www.tutorialspoint.com/webgl/webgl_drawing_a_triangle.htm
+
+- https://get.webgl.org
+
+- https://madebyevan.com/webgl-water/
+
