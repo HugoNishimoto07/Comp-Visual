@@ -81,19 +81,7 @@ O jogo Minecraft utiliza uma biblioteca chamada LWJGL para que seja possível a 
 
 *A imagem é do site: https://medium.com/trabe/a-brief-introduction-to-webgl-5b584db3d6d6
 
-- Vertex Shader 
-
-O vertex shader lida com o procesamento dos vértices do gráfico em questão
-
-- Triangle Assembly
-
-
-
-- Rasterization 
-
-- Fragment Shader
-
-- Testing and Blending
+A pipeline do WebGL funciona de forma similar ao OpenGL, uma vez que o WebGL é derivado do OpenGL.
 
 > Shader(s) do WebGL:
 
