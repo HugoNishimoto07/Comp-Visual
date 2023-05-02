@@ -69,6 +69,8 @@ A etapa final da pipeline consiste em mostrar o buffer de frames resultante. Ess
 
 [Exemplo cubo vermelho simples](https://github.com/HugoNishimoto07/Comp-Visual/blob/main/Atividades/Atividade%20semana%2011/redsquare.c)
 
+- Observação: O código acima possui além do código da API gráfica, possui também o shader no mesmo.
+
 > Exemplo de aplicação do OpenGL:
 
 O jogo Minecraft utiliza uma biblioteca chamada LWJGL para que seja possível a utilização dos gráficos 3D. Por sua vez, tal biblioteca faz uso do OpenGL para realizar a renderização dos gráficos.
@@ -95,6 +97,8 @@ A pipeline do WebGL funciona de forma similar ao OpenGL, uma vez que o WebGL é 
 > Código fonte:
 
 - [Exemplo triangulo simples](https://github.com/HugoNishimoto07/Comp-Visual/blob/main/Atividades/Atividade%20semana%2011/triangle.html)
+
+- Observação: O código acima possui além do código da API gráfica, possui também o shader no mesmo.
 
 > Exemplo de aplicação do WebGL:
 
