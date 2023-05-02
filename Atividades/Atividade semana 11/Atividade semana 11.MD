@@ -24,6 +24,8 @@ Resolução:
 > Shader(s) do OpenGL:
 
 - GLSL
+- 
+## API gráfica 2: WebGL
 
 > Pipeline WebGL
 
