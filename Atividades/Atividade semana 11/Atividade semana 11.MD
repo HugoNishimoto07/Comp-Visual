@@ -37,9 +37,13 @@ Resolução:
 
 - GLSL
 
-> Exemplo de uso do WedbGL e código fonte:
+> Exemplo de uso do WedbGL:
 
 <img width="481" alt="image" src="https://user-images.githubusercontent.com/89364149/235779394-aaff1bcd-7503-4b87-b907-9a97120933bf.png">
+
+> Código fonte:
+
+- [Exemplo triangulo simples](https://github.com/HugoNishimoto07/Comp-Visual/blob/main/Atividades/Atividade%20semana%2011/triangle.html)
 
 >> Referências:
 
