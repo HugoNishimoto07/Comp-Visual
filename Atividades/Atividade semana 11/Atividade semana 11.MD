@@ -51,9 +51,11 @@ A fase de rasterizacão promove uma eliminação das partes dos triangulos que f
 
 - Fragment Shader
 
-O fragment shader é responsável por juntar os valores variá
+O fragment shader é responsável por pegar os valores das variáveis do vertex shader e interpolalos na fase de rasterização. O resultado é a definição das cores finais do modelos
 
+- Per Sample Operation
 
+A etapa final da pipeline consiste em mostrar o buffer de frames resultante. Essa fase consiste em mostrar a imagem gerada pelo processo.
 
 > Shader(s) do OpenGL:
 
