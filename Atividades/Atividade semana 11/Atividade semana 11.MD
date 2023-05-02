@@ -23,7 +23,7 @@ Resolução:
 
 - Vertex Specification
 
-O Vertex Specification remete a fase inicial, onde os vértices são postos em buffers da GPU
+O Vertex Specification remete a fase inicial, onde os vértices são postos em buffers da GPU.
 
 - Vertex Shader
 
@@ -31,7 +31,7 @@ Nessa etapa, o vértices que foram direcionados para a GPU, são divididos em v�
 
 - Tesselation
 
-O tesselation é um estado opcional que irá melhorar o nível de detalhamento do modelo gráfico.
+O tesselation é um estado opcional que irá melhorar o nível de detalhamento do modelo gráfico, sendo utilizado quando um elemento, como o rosto humano, exija um nível de detalhamento maior.
 
 - Geometry Shader
 
