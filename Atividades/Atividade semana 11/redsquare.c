@@ -1,5 +1,7 @@
 #include <GL/glut.h>
 
+// parte que especifica os shaders de ilumaninação
+
 GLfloat light_diffuse[] = {1.0, 0.0, 0.0, 1.0};  
 GLfloat light_position[] = {1.0, 1.0, 1.0, 0.0};  
 GLfloat n[6][3] = {  
