@@ -82,7 +82,7 @@ O jogo Minecraft utiliza uma biblioteca chamada LWJGL para que seja possível a 
 ![image](https://user-images.githubusercontent.com/89364149/235809299-a6acadd0-2d39-4c00-acee-ee755b548ac1.png)
 
 
-*A imagem é do site: https://medium.com/trabe/a-brief-introduction-to-webgl-5b584db3d6d6
+*A imagem é do site: [https://medium.com/trabe/a-brief-introduction-to-webgl-5b584db3d6d6](https://www.tutorialspoint.com/webgl/webgl_graphics_pipeline.htm)
 
 A pipeline do WebGL funciona de forma similar ao OpenGL, uma vez que o WebGL é derivado do OpenGL. No caso da pipeline acima, diferente do OpenGL, a diferença dessa pipeline do WebGL é a presença do campo javascript como linguagem ao invés de C/C++.
 
