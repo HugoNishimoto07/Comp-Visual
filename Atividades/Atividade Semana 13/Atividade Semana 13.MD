@@ -23,6 +23,9 @@ Toon shading é uma técnica de renderização não-fotorrealista que busca a ap
 
 <img width="874" alt="image" src="https://github.com/HugoNishimoto07/Comp-Visual/assets/89364149/f2527651-d5c3-49de-8fff-396da425da78">
 
+## Exemplo de comparativo entre Toon Shading e Gouraud Shading
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdHfu3VkoZ5U&psig=AOvVaw31_gClX9BNBy-fJvV49yiW&ust=1683985547058000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCq2pT17_4CFQAAAAAdAAAAABAE![image](https://github.com/HugoNishimoto07/Comp-Visual/assets/89364149/caae3808-2bf5-4374-aef0-de3e53b1051d)
 
 >> Referências:
 
