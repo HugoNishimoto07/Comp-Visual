@@ -23,11 +23,24 @@ Toon shading é uma técnica de renderização não-fotorrealista que busca a ap
 
 <img width="874" alt="image" src="https://github.com/HugoNishimoto07/Comp-Visual/assets/89364149/f2527651-d5c3-49de-8fff-396da425da78">
 
+![image](https://github.com/HugoNishimoto07/Comp-Visual/assets/64180986/9ddabc0f-1b56-46e1-884e-e604d0c0150b)
+
+![image](https://github.com/HugoNishimoto07/Comp-Visual/assets/64180986/dc28e97e-c342-4dc0-8433-e0a830277fa6)
+
+![image](https://github.com/HugoNishimoto07/Comp-Visual/assets/64180986/047f03f3-8e6e-478d-9960-dd679334b111)
+
+![image](https://github.com/HugoNishimoto07/Comp-Visual/assets/64180986/5e835adc-632b-4c0d-8f74-ab04c65a83cf)
+
+
+
 ## Exemplo de comparativo entre Toon Shading x Gouraud Shading x Phong Shading
 
 ![maxresdefault](https://github.com/HugoNishimoto07/Comp-Visual/assets/89364149/1cb13629-90f8-4c5d-8686-d28d431289be)
 
-![image](https://github.com/HugoNishimoto07/Comp-Visual/assets/64180986/9ddabc0f-1b56-46e1-884e-e604d0c0150b)
+![image](https://github.com/HugoNishimoto07/Comp-Visual/assets/64180986/5425b239-1b01-4311-b549-a8deecce0a50)
+
+
+A partir dessas imagens comparando as três técnicas é nítida a diferença entre elas, Cel Shading entrega um visual animado, enquanto o Gouraud e Phong Shading buscam entregar algo mais realista e, sendo o Phong o mais preciso entre os três 
 
 >> Referências:
 - https://knoow.net/ciencinformtelec/informatica/cel-shading/
