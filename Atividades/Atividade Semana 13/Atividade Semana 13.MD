@@ -27,8 +27,18 @@ Toon shading é uma técnica de renderização não-fotorrealista que busca a ap
 
 ![maxresdefault](https://github.com/HugoNishimoto07/Comp-Visual/assets/89364149/1cb13629-90f8-4c5d-8686-d28d431289be)
 
+![image](https://github.com/HugoNishimoto07/Comp-Visual/assets/64180986/9ddabc0f-1b56-46e1-884e-e604d0c0150b)
 
 >> Referências:
+- https://knoow.net/ciencinformtelec/informatica/cel-shading/
+
+- https://en.wikipedia.org/wiki/Cel_shading
+
+- https://danielilett.com/2019-06-08-tut2-2-cel-shading/
+
+- https://roystan.net/articles/toon-shader/
+
+- https://www.cin.ufpe.br/~dfp/files/PG/cel-shading.pdf
 
 - https://tecnoblog.net/responde/o-que-e-cel-shading/
 
