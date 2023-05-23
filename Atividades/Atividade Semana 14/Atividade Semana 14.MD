@@ -31,6 +31,8 @@ A função mul(), presente na linguagem de programação HLSL, realiza uma multi
 Referência(s): 
 - https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-mul
 
+> Diferença(s) entre mul e modulate:
+
 
 Outras referências: 
 - https://docs.blender.org/manual/en/2.79/render/blender_render/materials/properties/transparency.html#:~:text=Materials%20in%20Blender%20can%20be,to%20its%20RGB%20color%20values.
