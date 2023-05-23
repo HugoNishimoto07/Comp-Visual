@@ -33,6 +33,7 @@ Referência(s):
 
 > Diferença(s) entre mul e modulate:
 
+A principal diferença entre os dois seria o fator do alpha channel presente no modulate. Assim como dito previamente, o alpha channel permite que seja inserido o fator de transparência nas cores, permitindo assim que a iluminação passe através dos objetos.
 
 Outras referências: 
 - https://docs.blender.org/manual/en/2.79/render/blender_render/materials/properties/transparency.html#:~:text=Materials%20in%20Blender%20can%20be,to%20its%20RGB%20color%20values.
